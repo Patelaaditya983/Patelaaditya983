@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Patel Aaditya
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**Building a AI systems || Machine Learning ||  Building open source projects**
 
 Email Me 👉 ✉️ **morasiyaaditya@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
