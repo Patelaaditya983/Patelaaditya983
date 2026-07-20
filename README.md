@@ -4,12 +4,19 @@
 Email Me 👉 ✉️ **morasiyaaditya@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I'm currently working on: Building AI, Python, and full-stack development skills through projects.
+
 🌱 I'm currently learning: Python, Machine Learning, Deep Learning, LLMs, AI Agents, FastAPI, React, and Cloud Computing.
+
 🤝 I'm looking to collaborate on: Open-source AI projects, Machine Learning applications, and innovative SaaS products.
+
 🆘 I'm looking for help with :Building scalable AI systems, training models, and deploying production-ready AI applications.
+
 💬 Ask me about: AI, Python, GitHub, Machine Learning, and building projects from scratch.
+
 📫 How to reach me :morasiyaaditya@gmail.com
+
 👤 Pronouns: He/Him (or remove this section if you don't want it)
+
 ⚡ Fun fact: My goal is to build an AI company that creates technology used by millions of people.
 
 ## 🏆 GitHub Trophies
